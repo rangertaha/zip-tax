@@ -56,16 +56,16 @@ Zip-tax is listed in PyPI and can be installed with pip or easy_install.
 
 
 **Manual installation**: Download the latest source from `PyPI
-<http://pypi.python.org/pypi/ziptax>`_.
+<https://pypi.python.org/pypi/zip-tax>`_.
 
 .. parsed-literal::
 
-    tar xvzf ziptax-$VERSION.tar.gz
+    tar xvzf zip-tax-$VERSION.tar.gz
     cd ziptax-$VERSION
     python setup.py build
     sudo python setup.py install
 
-The Zip-tax source code is `hosted on GitHub <>`_.
+The Zip-tax source code is `hosted on GitHub <https://github.com/rangertaha/zip-tax>`_.
 
 
 
